@@ -19,11 +19,11 @@ halal('Rainbow');
 MIT © [Alexander J. Salas B.](http://ajsb85.com)
 
 
-[npm-image]: https://badge.fury.io/js/halal.svg
+[npm-image]: https://badge.fury.io/js/npm-halal.svg
 [npm-url]: https://npmjs.org/package/halal
-[travis-image]: https://travis-ci.org/ajsb85/halal.svg?branch=master
-[travis-url]: https://travis-ci.org/ajsb85/halal
-[daviddm-image]: https://david-dm.org/ajsb85/halal.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ajsb85/halal
-[coveralls-image]: https://coveralls.io/repos/ajsb85/halal/badge.svg
-[coveralls-url]: https://coveralls.io/r/ajsb85/halal
+[travis-image]: https://travis-ci.org/ajsb85/npm-halal.svg?branch=master
+[travis-url]: https://travis-ci.org/ajsb85/npm-halal
+[daviddm-image]: https://david-dm.org/ajsb85/npm-halal.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/ajsb85/npm-halal
+[coveralls-image]: https://coveralls.io/repos/ajsb85/npm-halal/badge.svg
+[coveralls-url]: https://coveralls.io/r/ajsb85/npm-halal
