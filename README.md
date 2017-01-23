@@ -1,4 +1,6 @@
 # halal [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/node-module-halal.svg)](https://greenkeeper.io/)
 > Halal Services and Brands around the World
 
 ## Installation
